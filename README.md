@@ -5,8 +5,6 @@ Glimpse.TextReader
 
 **Set the following configuration in your application.**
 
-<?xml version="1.0" encoding="utf-8" ?>
-
 <configuration>
 
 	<add key="Glimpse.TextReader.DateSort" value="Desc" /> <!-- sort by file created date "Desc" or "Asc"  -->
